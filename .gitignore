@@ -1,0 +1,5 @@
+# Project exclude paths
+/data_structures_and_algorithms/target/
+/design_patterns/target/
+/java_basis/target/
+/target/
